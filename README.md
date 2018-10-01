@@ -1,15 +1,19 @@
-# To be, or not to be
+# Weekend Movie Trip
 
-It is a Data Classifier Project.
+It is a Data Clustering Project.
 
 
 # What it Does?
 
-  - It determines the player based on the features.
-  - To get the accuracy rate for prediction
+  - It recommends movies based on the User Rating, Genres and Tags
+  - To build a movie Recommendation system
 # Datset Used
-- Shakespeare Plays : https://www.kaggle.com/kingburrito666/shakespeare-plays
--- It contains data from Shakespeare's plays such as Play, player, Player Line and Act
+- MovieLens : https://grouplens.org/datasets/movielens/
+-- It contains 4 Data Files.
+-- **Ratings** - Contains Ratimg from multiple user for each movie
+-- **Tags** - Contains user comments/tags for each movie
+-- **Movie** - Contains Movie name
+-- **Links** - Links to Imdb Site for each movie
 
 
 # Data Classification
