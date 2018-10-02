@@ -35,7 +35,7 @@ It is a Data Clustering Project.
 
 - Below Scatter plot shows the 20 clusters vs Centroids
 
- ![Scatter Plot](https://raw.githubusercontent.com/nareshkumar66675/MovieLens/master/reports/Scatter-Centroids.png " Scatter Plot")
+ ![Scatter Plot](https://raw.githubusercontent.com/nareshkumar66675/MovieLens/master/reports/Scatter.png " Scatter Plot")
 
 # Project Struture
 
